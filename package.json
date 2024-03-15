@@ -1,0 +1,28 @@
+{
+  "name": "tools-events",
+  "version": "1.0.0",
+  "description": "It extends EventEmitter with pattern matching",
+  "engines": {
+    "node": ">=6.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "abv",
+    "abvos",
+    "event",
+    "regex",
+    "pattern"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayoral0/tools-events.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mayoral0/tools-events/issues"
+  },
+  "homepage": "https://github.com/mayoral0/tools-events#readme"
+}
